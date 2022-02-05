@@ -1,0 +1,24 @@
+{
+  "name": "socket-c",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.4.0"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2ich/sockcg.git"
+  },
+  "author": "authore name yeah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2ich/sockcg/issues"
+  },
+  "homepage": "https://github.com/2ich/sockcg#readme"
+}
